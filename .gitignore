@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 세금계산서 사진 등 민감 정보가 담긴 이미지 파일은 절대 커밋하지 않음
+*.jpg
+*.jpeg
+*.png
+*.pdf
