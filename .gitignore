@@ -8,3 +8,5 @@ venv/
 *.jpeg
 *.png
 *.pdf
+# README용 화면 스크린샷은 예외로 허용
+!screenshot.png

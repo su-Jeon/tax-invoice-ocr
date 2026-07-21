@@ -35,7 +35,7 @@ python calculate_total.py 사진1.jpg 사진2.jpg ...
 
 ## 실행 화면
 
-<!-- TODO: 스크린샷 추가 예정 -->
+![실행 화면](screenshot.png)
 
 ## 왜 로컬 모델(Ollama)을 쓰는가
 
